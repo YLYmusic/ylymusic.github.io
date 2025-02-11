@@ -44,6 +44,12 @@ body, html {
     justify-items: center;
 }
 
+.maila {
+    margin-top: 60px;
+    justify-items: center;
+    color: #737070
+}
+
 .social-links a {
     font-size: 36px; /* Increased icon size */
     color: #fff;
